@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 
-Gusto de visitar el perfil de la alumna :raising_hand: ✨ Adriana Perea ✨.
+Un gusto de visitar el perfil de la alumna :raising_hand: ✨ Adriana Perea ✨.
 
 Estudiante de Ingenieria en Sistemas computacionales de 7mo semestre :computer:
 
