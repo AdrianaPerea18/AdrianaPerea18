@@ -14,10 +14,10 @@ Estudiante de Ingenieria en Sistemas computacionales de 7mo semestre :computer:
 
 | Lunes                            | Martes                           | Miércoles                        | Jueves                           | Viernes                          |
 |----------------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
-| Taller de Investigación I        | Taller de Investigación I        | Taller de Investigación I        | Taller de Investigación I        | Taller de Investigación I        |
+| Taller de Investigación I        | Taller de Investigación I        | Taller de Investigación I        | Taller de Investigación I        |                                  |
 | Estadistica y Analisis de Datos  | Estadistica y Analisis de Datos  | Estadistica y Analisis de Datos  | Estadistica y Analisis de Datos  | Estadistica y Analisis de Datos  |
 | Lenguajes y Automatas 2          | Lenguajes y Automatas 2          | Lenguajes y Automatas 2          | Lenguajes y Automatas 2          | Lenguajes y Automatas 2          |
-| Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            |
+| Sistemas Programables            | Sistemas Programables            | Sistemas Programables            | Sistemas Programables            |                                  |
 | Administración de Bases de Datos | Administración de Bases de Datos | Administración de Bases de Datos | Administración de Bases de Datos | Administración de Bases de Datos |
-| Programación Lógica y Funcional  | Programación Lógica y Funcional  | Programación Lógica y Funcional  | Programación Lógica y Funcional  | Programación Lógica y Funcional  |
+| Programación Lógica y Funcional  | Programación Lógica y Funcional  | Programación Lógica y Funcional  | Programación Lógica y Funcional  |                                  |
 
