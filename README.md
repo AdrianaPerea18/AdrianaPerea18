@@ -8,7 +8,7 @@
 
 Un gusto de visitar el perfil de la alumna :raising_hand: ✨ Adriana Perea ✨.
 
-Estudiante de Ingenieria en Sistemas computacionales de 7mo semestre :computer:
+Estudiante de Ingenieria en Sistemas computacionales de 8mo semestre :computer:
 
 :date: Horario :date:
 
